@@ -1,6 +1,6 @@
 # Brooks Walker
 
-Construction owner-operator (heavy civil, excavation, framing, project management) who builds AI systems that check their own work.
+Former construction owner-operator (heavy civil, excavation, framing, project management) who now builds AI systems that check their own work.
 
 I direct AI the way I'd run a crew. I set the job, the standards and the checks; the AI builds; and nothing counts until it's verified.
 
@@ -11,7 +11,7 @@ I direct AI the way I'd run a crew. I set the job, the standards and the checks;
 - **Measured, not claimed.** I test the verification against public citation-hallucination datasets and track what it misses as well as what it catches.
 
 ## Experience
-- **B&M Contractors LLC**, Owner / Managing Member, 2023–present. Heavy civil, excavation, framing and project management; built the company's estimating system.
+- **B&M Contractors LLC**, Owner / Managing Member, 2023–present. Heavy civil, excavation, framing and project management through 2024; built the company's estimating system. Since 2024 I've worked full-time in AI, and I keep the LLC open for future ventures.
 - **Brooks M. Walker Construction LLC**, Owner, c. 2017–2023. Heavy civil, excavation, framing and project management.
 - **Independent AI systems builder**, 2024–present. Multi-agent AI with built-in accuracy checks.
 
