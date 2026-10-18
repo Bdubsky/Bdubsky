@@ -1,6 +1,6 @@
 # Brooks Walker
 
-Former construction owner-operator (heavy civil, excavation, framing, project management) who now builds AI systems that check their own work.
+20+ years in construction (heavy civil, excavation, framing, project management), including seven running my own company. Now I build AI systems that check their own work.
 
 I direct AI the way I'd run a crew. I set the job, the standards and the checks; the AI builds; and nothing counts until it's verified.
 
